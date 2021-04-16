@@ -1,5 +1,9 @@
 html, body {
     min-height: 100%;
+    margin-top: 0;
+    margin-bottom:0 ;
+    margin-left: 0;
+    margin-right:0 ;
 }
 #listLogo
 {
@@ -10,4 +14,21 @@ html, body {
 {
     height: 500px;
     width: 500px;
+}
+body{
+    
+    background-color: #e0e0e0;
+    
+}
+header{
+    background:rosybrown;
+}
+footer{
+    background:rosybrown;
+}
+.bodydiv{
+margin-left: 4%;
+margin-top: 2%;
+margin-right: 4%;
+
 }

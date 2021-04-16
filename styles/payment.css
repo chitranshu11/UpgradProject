@@ -5,9 +5,33 @@
 }
 html, body {
     min-height: 100%;
+    margin-top: 0;
+    margin-bottom:0 ;
+    margin-left: 0;
+    margin-right:0 ;
 }
 #paymentImage
 {
     height: 500px;
     width: 500px;
+}
+header{
+    background:rosybrown;
+}
+footer{
+    background:rosybrown;
+}
+body{
+    background-color: #e0e0e0;
+}
+#pmtbgdiv
+{
+    background-color: rgb(132, 136, 139);
+    width: 50%;
+    height: 20%;
+    align:center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }

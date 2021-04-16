@@ -3,6 +3,7 @@
 body{
     height: 100%;
     width: 100%;
+    background-color: #e0e0e0;
 }
 #logoImage{
     height: 60px;
@@ -12,11 +13,45 @@ body{
 {
     height: 150px;
     width: 150px;
+    padding-left: 4%;
+    padding-right: 4%;
+    border-radius: 25%;
+  
 }
+#img1
+{
+margin-left: 15%;
+
+}
+
+
 .socialMediaImage{
     height: 20px;
     width: 22px;
 }
 html, body {
     min-height: 100%;
+    margin-top: 0;
+    margin-bottom:0 ;
+    margin-left: 0;
+    margin-right:0 ;
+}
+
+header{
+    background:rosybrown;
+}
+footer{
+    background:rosybrown;
+}
+.listImagediv
+{
+    margin-top: 2%;
+    margin-bottom:2% ;
+    margin-left: 2%;
+    margin-right:2% ;
+    background-color: rgb(132, 136, 139);
+}
+#listImagediv
+{
+    background-color: rgb(132, 136, 139);
 }
