@@ -17,6 +17,9 @@ html, body {
     margin-left: 0;
     margin-right:0 ;
 }
+#viewlist{
+    display: inline;
+}
 body{
     height: 100%;
     width: 100%;
