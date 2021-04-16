@@ -1,0 +1,12 @@
+#listLogo
+{
+    height: 60px;
+    width: 60px;
+}
+.listImage{
+    height: 200px;
+    width: 250px;
+}
+html, body {
+    min-height: 100%;
+}

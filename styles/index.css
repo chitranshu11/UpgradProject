@@ -1,0 +1,22 @@
+
+
+body{
+    height: 100%;
+    width: 100%;
+}
+#logoImage{
+    height: 60px;
+    width: 60px;  
+}
+.indexImage
+{
+    height: 150px;
+    width: 150px;
+}
+.socialMediaImage{
+    height: 20px;
+    width: 22px;
+}
+html, body {
+    min-height: 100%;
+}

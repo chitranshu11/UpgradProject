@@ -1,0 +1,13 @@
+#listLogo
+{
+    height: 60px;
+    width: 60px;
+}
+html, body {
+    min-height: 100%;
+}
+#paymentImage
+{
+    height: 500px;
+    width: 500px;
+}
